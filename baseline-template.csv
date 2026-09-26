@@ -1,0 +1,3 @@
+row_type,date,market,language,engine,surface,model,prompt_id,prompt,run,brand,brand_named,domain_cited,recommended,position,facts_correct,cited_domains,notes
+EXAMPLE,2026-01-15,UK,en,Perplexity,consumer app,not shown,P01,which accounting software suits a small UK shop,1,Example Ltd,yes,no,yes,2,yes,example.org;example.net,EXAMPLE ROW - made-up brand - delete before use
+EXAMPLE,2026-01-15,UK,en,Google AI Overviews,consumer app,not shown,P01,which accounting software suits a small UK shop,1,Example Ltd,no,no,no,,,example.org,EXAMPLE ROW - made-up brand - delete before use
