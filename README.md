@@ -13,4 +13,11 @@ How to use it:
 7. Delete the two rows marked EXAMPLE before you start. "Example Ltd" is a made-up brand.
 8. Re-run the same questions the same way later and compare the rates.
 
+## Further reading
+
+- [How to check if Perplexity and Google AI Overviews mention your business](https://citedgeo.com/insights/check-perplexity-google-ai-overviews-mentions/?utm_source=github&utm_medium=social&utm_campaign=baseline-tracker-template): the 10-minute manual check; this sheet can log its results.
+- [Same question, different firms](https://citedgeo.com/insights/same-question-different-firms/?utm_source=github&utm_medium=social&utm_campaign=baseline-tracker-template): why step 2 says 3 runs. We asked Perplexity the same local question twice, hours apart, and the two lists shared 48% of firms on average.
+
 License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+CitedGEO team
